@@ -7,6 +7,7 @@ const int maks_energi = 1000;
 const int INF = 1e9;
 //Saya menambahkan variabel baru, dimana ketika berada di rest point menghabiskan energi sebanyak 15
 //Ini saya lakukan agar output dapat sesuai dengan test case
+
 const int konsumsi_rest = 15;
 
 struct Edge{
