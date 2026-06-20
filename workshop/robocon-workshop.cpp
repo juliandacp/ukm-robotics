@@ -9,6 +9,7 @@ class Game{
     float rating;
     float harga;
     Game(){}
+    
     Game(string nama_gameInput, string developerInput, unsigned short tahun_rilisInput, float ratingInput, float hargaInput){
         nama_game=nama_gameInput;
         developer=developerInput;
