@@ -44,3 +44,8 @@ void loop() {
   delay(3000);
 }
 ```
+
+---
+
+## Rangkaian
+![Alt Text](assets/challenge-half-bridge.png)
