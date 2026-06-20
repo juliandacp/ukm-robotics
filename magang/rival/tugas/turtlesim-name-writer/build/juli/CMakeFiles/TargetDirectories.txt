@@ -1,0 +1,10 @@
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli/CMakeFiles/uninstall.dir
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli/CMakeFiles/Juli_uninstall.dir
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli/CMakeFiles/Juli-Writer.dir
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli/CMakeFiles/test.dir
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli/CMakeFiles/edit_cache.dir
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli/CMakeFiles/rebuild_cache.dir
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli/CMakeFiles/list_install_components.dir
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli/CMakeFiles/install.dir
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli/CMakeFiles/install/local.dir
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli/CMakeFiles/install/strip.dir

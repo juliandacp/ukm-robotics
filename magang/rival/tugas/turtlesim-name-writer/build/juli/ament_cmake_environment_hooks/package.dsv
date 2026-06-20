@@ -1,0 +1,4 @@
+source;share/Juli/local_setup.bash
+source;share/Juli/local_setup.dsv
+source;share/Juli/local_setup.sh
+source;share/Juli/local_setup.zsh

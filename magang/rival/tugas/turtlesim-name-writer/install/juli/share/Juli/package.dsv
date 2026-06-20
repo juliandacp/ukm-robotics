@@ -1,0 +1,8 @@
+source;share/Juli/hook/cmake_prefix_path.ps1
+source;share/Juli/hook/cmake_prefix_path.dsv
+source;share/Juli/hook/cmake_prefix_path.sh
+source;share/Juli/local_setup.bash
+source;share/Juli/local_setup.dsv
+source;share/Juli/local_setup.ps1
+source;share/Juli/local_setup.sh
+source;share/Juli/local_setup.zsh

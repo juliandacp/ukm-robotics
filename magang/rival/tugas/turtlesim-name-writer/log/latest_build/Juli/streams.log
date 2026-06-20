@@ -1,0 +1,23 @@
+[0.007s] Invoking command in '/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli -- -j16 -l16
+[0.049s] [35m[1mConsolidate compiler generated dependencies of target Juli-Writer[0m
+[0.070s] [100%] Built target Juli-Writer
+[0.086s] Invoked command in '/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli -- -j16 -l16
+[0.099s] Invoking command in '/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli
+[0.109s] -- Install configuration: ""
+[0.109s] -- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/lib/Juli/Juli-Writer
+[0.109s] -- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/ament_index/resource_index/package_run_dependencies/Juli
+[0.109s] -- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/ament_index/resource_index/parent_prefix_path/Juli
+[0.109s] -- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/ament_prefix_path.sh
+[0.109s] -- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/ament_prefix_path.dsv
+[0.109s] -- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/path.sh
+[0.110s] -- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/path.dsv
+[0.110s] -- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.bash
+[0.110s] -- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.sh
+[0.110s] -- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.zsh
+[0.110s] -- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.dsv
+[0.110s] -- Installing: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/package.dsv
+[0.110s] -- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/ament_index/resource_index/packages/Juli
+[0.110s] -- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/cmake/JuliConfig.cmake
+[0.110s] -- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/cmake/JuliConfig-version.cmake
+[0.110s] -- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/package.xml
+[0.112s] Invoked command in '/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli

@@ -1,0 +1,46 @@
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rclcpp: 16.0.15 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found geometry_msgs: 4.9.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+-- Found turtlesim: 1.4.3 (/opt/ros/humble/share/turtlesim/cmake)
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli
+[ 50%] [32mBuilding CXX object CMakeFiles/Juli-Writer.dir/src/Juli-Writer.cpp.o[0m
+[100%] [32m[1mLinking CXX executable Juli-Writer[0m
+[100%] Built target Juli-Writer
+-- Install configuration: ""
+-- Installing: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/lib/Juli/Juli-Writer
+-- Set runtime path of "/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/lib/Juli/Juli-Writer" to ""
+-- Installing: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/ament_index/resource_index/package_run_dependencies/Juli
+-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/ament_index/resource_index/parent_prefix_path/Juli
+-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/ament_prefix_path.sh
+-- Installing: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/path.sh
+-- Installing: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/path.dsv
+-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.bash
+-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.sh
+-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.zsh
+-- Installing: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.dsv
+-- Installing: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/package.dsv
+-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/ament_index/resource_index/packages/Juli
+-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/cmake/JuliConfig.cmake
+-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/cmake/JuliConfig-version.cmake
+-- Installing: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/package.xml

@@ -1,0 +1,125 @@
+[0.000000] (-) TimerEvent: {}
+[0.000183] (Juli) JobQueued: {'identifier': 'Juli', 'dependencies': OrderedDict()}
+[0.000650] (Juli) JobStarted: {'identifier': 'Juli'}
+[0.005612] (Juli) JobProgress: {'identifier': 'Juli', 'progress': 'cmake'}
+[0.005951] (Juli) JobProgress: {'identifier': 'Juli', 'progress': 'build'}
+[0.006443] (Juli) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli', '--', '-j16', '-l16'], 'cwd': '/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'julian'), ('LC_TIME', 'id_ID.UTF-8'), ('XDG_SESSION_TYPE', 'wayland'), ('GIT_ASKPASS', '/usr/share/code/resources/app/extensions/git/dist/askpass.sh'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/julian'), ('CHROME_DESKTOP', 'code.desktop'), ('OLDPWD', '/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/src/Juli'), ('TERM_PROGRAM_VERSION', '1.105.1'), ('DESKTOP_SESSION', 'ubuntu'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('VSCODE_GIT_ASKPASS_MAIN', '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'), ('LC_MONETARY', 'id_ID.UTF-8'), ('VSCODE_GIT_ASKPASS_NODE', '/usr/share/code/code'), ('SYSTEMD_EXEC_PID', '1880'), ('VSCODE_PYTHON_AUTOACTIVATE_GUARD', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('IM_CONFIG_PHASE', '1'), ('WAYLAND_DISPLAY', 'wayland-0'), ('ROS_DISTRO', 'humble'), ('LOGNAME', 'julian'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'julian'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/julian-LOQ-15IRX9:@/tmp/.ICE-unix/1841,unix/julian-LOQ-15IRX9:/tmp/.ICE-unix/1841'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'id_ID.UTF-8'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/d8cf90c1_b780_4d53_a025_0b02e19bebdd'), ('GNOME_SETUP_DISPLAY', ':1'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':0'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('LC_TELEPHONE', 'id_ID.UTF-8'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/.mutter-Xwaylandauth.PPI5E3'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1000/vscode-git-6600075e4b.sock'), ('GNOME_TERMINAL_SERVICE', ':1.221'), ('TERM_PROGRAM', 'vscode'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('LC_NAME', 'id_ID.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'id_ID.UTF-8'), ('LC_IDENTIFICATION', 'id_ID.UTF-8'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', ''), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('LC_NUMERIC', 'id_ID.UTF-8'), ('LC_PAPER', 'id_ID.UTF-8'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[0.025389] (Juli) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)\n'}
+[0.099904] (-) TimerEvent: {}
+[0.111475] (Juli) StdoutLine: {'line': b'-- Found rclcpp: 16.0.15 (/opt/ros/humble/share/rclcpp/cmake)\n'}
+[0.129293] (Juli) StdoutLine: {'line': b'-- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)\n'}
+[0.130848] (Juli) StdoutLine: {'line': b'-- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)\n'}
+[0.134423] (Juli) StdoutLine: {'line': b'-- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)\n'}
+[0.140336] (Juli) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[0.147955] (Juli) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[0.167951] (Juli) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)\n'}
+[0.168770] (Juli) StdoutLine: {'line': b'-- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)\n'}
+[0.200053] (-) TimerEvent: {}
+[0.254789] (Juli) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[0.285572] (Juli) StdoutLine: {'line': b'-- Found geometry_msgs: 4.9.0 (/opt/ros/humble/share/geometry_msgs/cmake)\n'}
+[0.293206] (Juli) StdoutLine: {'line': b'-- Found turtlesim: 1.4.3 (/opt/ros/humble/share/turtlesim/cmake)\n'}
+[0.300197] (-) TimerEvent: {}
+[0.316026] (Juli) StdoutLine: {'line': b'-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)\n'}
+[0.351398] (Juli) StderrLine: {'line': b'WARNING: Package name "Juli" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.\n'}
+[0.361920] (Juli) StdoutLine: {'line': b"-- Added test 'cppcheck' to perform static code analysis on C / C++ code\n"}
+[0.362099] (Juli) StdoutLine: {'line': b'-- Configured cppcheck include dirs: \n'}
+[0.362182] (Juli) StdoutLine: {'line': b'-- Configured cppcheck exclude dirs and/or files: \n'}
+[0.362358] (Juli) StdoutLine: {'line': b"-- Added test 'flake8' to check Python code syntax and style conventions\n"}
+[0.362567] (Juli) StdoutLine: {'line': b"-- Added test 'lint_cmake' to check CMake code style\n"}
+[0.362713] (Juli) StdoutLine: {'line': b"-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257\n"}
+[0.363664] (Juli) StdoutLine: {'line': b"-- Added test 'uncrustify' to check C / C++ code style\n"}
+[0.363833] (Juli) StdoutLine: {'line': b'-- Configured uncrustify additional arguments: \n'}
+[0.364003] (Juli) StdoutLine: {'line': b"-- Added test 'xmllint' to check XML markup files\n"}
+[0.364213] (Juli) StdoutLine: {'line': b'-- Configuring done\n'}
+[0.369930] (Juli) StdoutLine: {'line': b'-- Generating done\n'}
+[0.372423] (Juli) StdoutLine: {'line': b'-- Build files have been written to: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli\n'}
+[0.400318] (-) TimerEvent: {}
+[0.401546] (Juli) StdoutLine: {'line': b'[ 50%] \x1b[32mBuilding CXX object CMakeFiles/Juli-Writer.dir/src/Juli-Writer.cpp.o\x1b[0m\n'}
+[0.500514] (-) TimerEvent: {}
+[0.600917] (-) TimerEvent: {}
+[0.701334] (-) TimerEvent: {}
+[0.801744] (-) TimerEvent: {}
+[0.902152] (-) TimerEvent: {}
+[1.002539] (-) TimerEvent: {}
+[1.102938] (-) TimerEvent: {}
+[1.203334] (-) TimerEvent: {}
+[1.303717] (-) TimerEvent: {}
+[1.404111] (-) TimerEvent: {}
+[1.504506] (-) TimerEvent: {}
+[1.604934] (-) TimerEvent: {}
+[1.705452] (-) TimerEvent: {}
+[1.805771] (-) TimerEvent: {}
+[1.906085] (-) TimerEvent: {}
+[2.006395] (-) TimerEvent: {}
+[2.106705] (-) TimerEvent: {}
+[2.207016] (-) TimerEvent: {}
+[2.307326] (-) TimerEvent: {}
+[2.407644] (-) TimerEvent: {}
+[2.507952] (-) TimerEvent: {}
+[2.608272] (-) TimerEvent: {}
+[2.708590] (-) TimerEvent: {}
+[2.808940] (-) TimerEvent: {}
+[2.909305] (-) TimerEvent: {}
+[3.009626] (-) TimerEvent: {}
+[3.109934] (-) TimerEvent: {}
+[3.210252] (-) TimerEvent: {}
+[3.310570] (-) TimerEvent: {}
+[3.410880] (-) TimerEvent: {}
+[3.511194] (-) TimerEvent: {}
+[3.611514] (-) TimerEvent: {}
+[3.711846] (-) TimerEvent: {}
+[3.812179] (-) TimerEvent: {}
+[3.912486] (-) TimerEvent: {}
+[4.012797] (-) TimerEvent: {}
+[4.113123] (-) TimerEvent: {}
+[4.213435] (-) TimerEvent: {}
+[4.313752] (-) TimerEvent: {}
+[4.414088] (-) TimerEvent: {}
+[4.514411] (-) TimerEvent: {}
+[4.614736] (-) TimerEvent: {}
+[4.715055] (-) TimerEvent: {}
+[4.815363] (-) TimerEvent: {}
+[4.915676] (-) TimerEvent: {}
+[5.016001] (-) TimerEvent: {}
+[5.116306] (-) TimerEvent: {}
+[5.216613] (-) TimerEvent: {}
+[5.316915] (-) TimerEvent: {}
+[5.417235] (-) TimerEvent: {}
+[5.517553] (-) TimerEvent: {}
+[5.617905] (-) TimerEvent: {}
+[5.718251] (-) TimerEvent: {}
+[5.818576] (-) TimerEvent: {}
+[5.918939] (-) TimerEvent: {}
+[6.019229] (-) TimerEvent: {}
+[6.119512] (-) TimerEvent: {}
+[6.219865] (-) TimerEvent: {}
+[6.278264] (Juli) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking CXX executable Juli-Writer\x1b[0m\n'}
+[6.320046] (-) TimerEvent: {}
+[6.420359] (-) TimerEvent: {}
+[6.520671] (-) TimerEvent: {}
+[6.612681] (Juli) StdoutLine: {'line': b'[100%] Built target Juli-Writer\n'}
+[6.620825] (-) TimerEvent: {}
+[6.622866] (Juli) CommandEnded: {'returncode': 0}
+[6.623434] (Juli) JobProgress: {'identifier': 'Juli', 'progress': 'install'}
+[6.631492] (Juli) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli'], 'cwd': '/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'julian'), ('LC_TIME', 'id_ID.UTF-8'), ('XDG_SESSION_TYPE', 'wayland'), ('GIT_ASKPASS', '/usr/share/code/resources/app/extensions/git/dist/askpass.sh'), ('SHLVL', '2'), ('LD_LIBRARY_PATH', '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/julian'), ('CHROME_DESKTOP', 'code.desktop'), ('OLDPWD', '/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/src/Juli'), ('TERM_PROGRAM_VERSION', '1.105.1'), ('DESKTOP_SESSION', 'ubuntu'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('VSCODE_GIT_ASKPASS_MAIN', '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'), ('LC_MONETARY', 'id_ID.UTF-8'), ('VSCODE_GIT_ASKPASS_NODE', '/usr/share/code/code'), ('SYSTEMD_EXEC_PID', '1880'), ('VSCODE_PYTHON_AUTOACTIVATE_GUARD', '1'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('IM_CONFIG_PHASE', '1'), ('WAYLAND_DISPLAY', 'wayland-0'), ('ROS_DISTRO', 'humble'), ('LOGNAME', 'julian'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'julian'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('PATH', '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/julian-LOQ-15IRX9:@/tmp/.ICE-unix/1841,unix/julian-LOQ-15IRX9:/tmp/.ICE-unix/1841'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'id_ID.UTF-8'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/d8cf90c1_b780_4d53_a025_0b02e19bebdd'), ('GNOME_SETUP_DISPLAY', ':1'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':0'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('LC_TELEPHONE', 'id_ID.UTF-8'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/.mutter-Xwaylandauth.PPI5E3'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1000/vscode-git-6600075e4b.sock'), ('GNOME_TERMINAL_SERVICE', ':1.221'), ('TERM_PROGRAM', 'vscode'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('LC_NAME', 'id_ID.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'id_ID.UTF-8'), ('LC_IDENTIFICATION', 'id_ID.UTF-8'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', ''), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('LC_NUMERIC', 'id_ID.UTF-8'), ('LC_PAPER', 'id_ID.UTF-8'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[6.639631] (Juli) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[6.639841] (Juli) StdoutLine: {'line': b'-- Installing: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/lib/Juli/Juli-Writer\n'}
+[6.643482] (Juli) StdoutLine: {'line': b'-- Set runtime path of "/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/lib/Juli/Juli-Writer" to ""\n'}
+[6.643694] (Juli) StdoutLine: {'line': b'-- Installing: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/ament_index/resource_index/package_run_dependencies/Juli\n'}
+[6.643785] (Juli) StdoutLine: {'line': b'-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/ament_index/resource_index/parent_prefix_path/Juli\n'}
+[6.643882] (Juli) StdoutLine: {'line': b'-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/ament_prefix_path.sh\n'}
+[6.643959] (Juli) StdoutLine: {'line': b'-- Installing: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/ament_prefix_path.dsv\n'}
+[6.644066] (Juli) StdoutLine: {'line': b'-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/path.sh\n'}
+[6.644201] (Juli) StdoutLine: {'line': b'-- Installing: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/path.dsv\n'}
+[6.644317] (Juli) StdoutLine: {'line': b'-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.bash\n'}
+[6.644412] (Juli) StdoutLine: {'line': b'-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.sh\n'}
+[6.644475] (Juli) StdoutLine: {'line': b'-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.zsh\n'}
+[6.644531] (Juli) StdoutLine: {'line': b'-- Installing: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.dsv\n'}
+[6.644587] (Juli) StdoutLine: {'line': b'-- Installing: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/package.dsv\n'}
+[6.644642] (Juli) StdoutLine: {'line': b'-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/ament_index/resource_index/packages/Juli\n'}
+[6.644698] (Juli) StdoutLine: {'line': b'-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/cmake/JuliConfig.cmake\n'}
+[6.644753] (Juli) StdoutLine: {'line': b'-- Up-to-date: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/cmake/JuliConfig-version.cmake\n'}
+[6.644808] (Juli) StdoutLine: {'line': b'-- Installing: /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/package.xml\n'}
+[6.646756] (Juli) CommandEnded: {'returncode': 0}
+[6.665879] (Juli) JobEnded: {'identifier': 'Juli', 'rc': 0}
+[6.666289] (-) EventReactorShutdown: {}

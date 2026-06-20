@@ -1,0 +1,16 @@
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/lib/Juli/Juli-Writer
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/ament_index/resource_index/package_run_dependencies/Juli
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/ament_index/resource_index/parent_prefix_path/Juli
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/ament_prefix_path.sh
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/ament_prefix_path.dsv
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/path.sh
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/environment/path.dsv
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.bash
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.sh
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.zsh
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/local_setup.dsv
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/package.dsv
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/ament_index/resource_index/packages/Juli
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/cmake/JuliConfig.cmake
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/cmake/JuliConfig-version.cmake
+/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/install/Juli/share/Juli/package.xml

@@ -1,0 +1,2 @@
+Invoking command in '/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli -- -j16 -l16
+Invoked command in '/home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/julian/KPP-Magang-RIVAL-ITS/Turtlesim-Name-Writer/build/Juli -- -j16 -l16
